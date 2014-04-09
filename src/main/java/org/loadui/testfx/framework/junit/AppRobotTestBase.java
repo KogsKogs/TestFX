@@ -17,7 +17,7 @@ public abstract class AppRobotTestBase extends FxRobot {
     //---------------------------------------------------------------------------------------------
 
     static final int APP_SETUP_TIMEOUT_IN_SECONDS = 25;
-    static final int STAGE_SETUP_TIMEOUT_IN_SECONDS = 5;
+    static final int STAGE_SETUP_TIMEOUT_IN_SECONDS = 20;
     static final int INVOKE_TIMEOUT_IN_SECONDS = 5;
 
     //---------------------------------------------------------------------------------------------
